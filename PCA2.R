@@ -1,4 +1,4 @@
-setwd("/Users/diegovertiz/Documents/AACuarto Semestre/Servicio Becario")
+
 # PCA - R (N dimensiones)
 # Autor: Diego Vértiz Padilla
 
