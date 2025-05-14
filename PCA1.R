@@ -1,5 +1,4 @@
-# Establecer el directorio de trabajo
-setwd("/Users/diegovertiz/Documents/AACuarto Semestre/Servicio Becario")
+
 
 # PCA - R (3 dimensiones)
 # Autor: Diego Vértiz Padilla
