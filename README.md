@@ -1,64 +1,86 @@
-# 📊 DS_Mejora_Academica
+# DS_Mejora_Academica
 
-Este repositorio documenta un análisis comparativo del algoritmo de **Análisis de Componentes Principales (PCA)** aplicado en tres enfoques diferentes: 
+Este repositorio documenta un análisis comparativo del algoritmo de **Análisis de Componentes Principales (PCA)** a través de tres enfoques distintos:
 
-1. ✅ Procedimiento manual paso a paso  
-2. 🧪 Implementaciones programadas en **Python**, **R** y **MATLAB**  
-3. 🤖 Simulación de una solución completamente automatizada generada por **IA (ChatGPT)**
+1. Procedimiento manual, realizado paso a paso  
+2. Implementaciones programadas en **Python**, **R** y **MATLAB**  
+3. Simulación de resolución completamente automatizada mediante **inteligencia artificial (IA)**
 
-El proyecto forma parte de una reflexión académica más amplia sobre la **dependencia creciente de herramientas generativas** por parte de estudiantes en actividades analíticas.
-
----
-
-## 🧠 Objetivo
-
-Evaluar cómo varía el nivel de comprensión conceptual y técnico del estudiante dependiendo del enfoque utilizado para resolver una misma tarea de PCA.
+El objetivo principal es reflexionar sobre la comprensión conceptual real frente a la creciente dependencia de herramientas generativas en el ámbito académico.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Objetivo
 
-| Archivo                  | Descripción                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| `PCA_Manual.pdf`         | Desarrollo a mano del PCA con 3 indicadores (centrado, covarianza, eigenvalores). |
-| `PCA_ma_1.ipynb`         | PCA programado en Python (datos con 3 dimensiones).                         |
-| `PCA_ma_2.ipynb`         | PCA programado en Python (datos multivariables).                            |
-| `PCA1.R` / `PCA2.R`      | Scripts de PCA en R (3 variables y multivariable, respectivamente).         |
-| `PCA_First.mlx`          | Script de MATLAB para 3 variables (incluye gráficas).                       |
-| `PCA_second.mlx`         | Script de MATLAB para múltiples variables.                                  |
-| `.gitignore` / `.DS_Store`| Archivos de sistema/entorno.                                               |
-
-## 📄 Estado del Proyecto
-
-Proyecto completado. El repositorio contiene:
-
-- El informe final completo en LaTeX y PDF (`/reporte/`)
-- Capturas de pantalla y gráficos generados por los scripts
-- Simulación completa de outputs generados por IA (basado en prompts reales)
-- Análisis comparativo entre enfoques manuales, programados y automáticos
+Evaluar cómo varía el nivel de comprensión técnica, analítica y conceptual de un estudiante dependiendo del enfoque utilizado para aplicar el PCA.
 
 ---
 
-## 📚 Contenido del Reporte (ver `/reporte/`)
+## Estructura del Repositorio
 
-- Introducción teórica al PCA y contexto académico del problema
-- Desarrollo manual del algoritmo con resultados paso a paso
-- Implementaciones completas en Python, R y MATLAB
-- Visualizaciones: varianza acumulada, dispersión 2D, matrices proyectadas
-- Aportación por variable en cada componente principal
-- Simulación educativa de uso de IA sin comprensión conceptual
-- Análisis crítico sobre evaluación educativa y uso ético de herramientas generativas
-- Recomendaciones docentes para validación y evaluación del aprendizaje real
-
-## 🤖 Reflexión central
-
-Este proyecto pone en evidencia cómo un estudiante puede resolver y entregar un análisis estadístico completo sin comprender ni calcular nada, mediante el uso de IA. Frente a esto, se proponen estrategias pedagógicas que promuevan el aprendizaje auténtico y la evaluación transparente.
+| Archivo                        | Descripción                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| `PCA_Manual.pdf`              | Desarrollo completo del PCA hecho a mano con 3 indicadores.                 |
+| `PCA_ma_1.ipynb`              | Implementación en Python (3 variables).                                     |
+| `PCA_ma_2.ipynb`              | Implementación en Python (múltiples variables).                             |
+| `PCA1.R` / `PCA2.R`           | Scripts en R para ambos casos.                                             |
+| `PCA_First.mlx` / `PCA_second.mlx` | Scripts MATLAB con salidas gráficas y proyectadas.                        |
+| `PCA__Mejora_Académica-2.pdf` | 📌 **Informe final completo** (resultado principal del proyecto).          |
+| `.gitignore` / `.DS_Store`    | Archivos de sistema.                                                       |
 
 ---
 
-## 📌 Autor
+## Estado del Proyecto
 
-- Diego Vértiz Padilla  
-  [Tecnológico de Monterrey – Escuela de Ingeniería]  
+Este proyecto ha sido completado. El repositorio contiene:
+
+- ✔ Informe final completo y corregido en PDF (`PCA__Mejora_Académica-2.pdf`)
+- ✔ Scripts funcionales en Python, R y MATLAB
+- ✔ Capturas y gráficas generadas desde los scripts
+- ✔ Escaneo del desarrollo manual (apéndice)
+- ✔ Simulación realista del uso de IA con prompts y outputs
+
+> **Para revisar el resultado más importante del proyecto, consulta el informe final completo**:  
+> 📄 [`PCA__Mejora_Académica-2.pdf`](./PCA__Mejora_Académica-2.pdf)
+
+---
+
+## Contenido del Reporte
+
+El reporte (PDF) incluye:
+
+- Introducción conceptual al PCA
+- Desarrollo manual con explicación matemática
+- Implementaciones programadas y visualizaciones generadas
+- Análisis de autovalores y varianza explicada
+- Aportación de cada variable a los componentes principales
+- Simulación de un estudiante que resuelve todo con IA (sin comprender)
+- Comparación crítica entre enfoques
+- Recomendaciones docentes para evitar el uso acrítico de IA en contextos educativos
+
+---
+
+## Reflexión Central
+
+Este trabajo busca evidenciar cómo un estudiante puede generar una entrega aparentemente completa utilizando inteligencia artificial, sin haber comprendido ni aplicado los fundamentos del PCA. Frente a esta realidad, se proponen mecanismos de evaluación orientados a verificar la comprensión auténtica y fomentar un aprendizaje responsable, más allá de los resultados automatizados.
+
+---
+
+## Autores
+
+- **Diego Vértiz Padilla**  
+  Estudiante – Escuela de Ingeniería  
+  Tecnológico de Monterrey, Campus Guadalajara  
   A01638881@tec.mx
+
+- **Pedro Cervantes Lozano**  
+  Profesor titular y asesor académico del proyecto  
+  Escuela de Ingeniería – Tecnológico de Monterrey  
+  pedro.cervantes@tec.mx
+
+---
+
+## Licencia
+
+Este repositorio no utiliza por el momento una licencia de código abierto formal. Su contenido es de carácter académico, y está destinado exclusivamente a fines educativos y de reflexión institucional.
 
