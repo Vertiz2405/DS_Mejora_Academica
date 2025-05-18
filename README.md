@@ -62,8 +62,3 @@ Este proyecto pone en evidencia cómo un estudiante puede resolver y entregar un
   [Tecnológico de Monterrey – Escuela de Ingeniería]  
   A01638881@tec.mx
 
----
-
-## 📜 Licencia
-
-MIT License — Este repositorio puede ser usado con fines educativos y de mejora docente.
